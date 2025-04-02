@@ -2,3 +2,4 @@ sample1
 haruka
 good evening
 world
+I come from Japan.
